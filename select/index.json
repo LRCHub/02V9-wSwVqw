@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "CHAMPION GIRL",
+  "base_artist": "電音部,Giga,鳳凰火凛 (CV: 健屋花那)",
+  "createdAt": "2026-01-14T04:42:27.470341Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CHAMPION GIRL",
+      "artist": "電音部 feat. Giga & 鳳凰火凛 (CV: 健屋花那)",
+      "has_synced": true,
+      "path": "select/01_CHAMPION_GIRL_電音部_feat._Giga_&_鳳凰火凛_(CV__健屋花那).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CHAMPION GIRL",
+      "artist": "鳳凰火凛(CV.健屋花那)",
+      "has_synced": true,
+      "path": "select/02_CHAMPION_GIRL_鳳凰火凛(CV.健屋花那).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CHAMPION GIRL",
+      "artist": "電音部",
+      "has_synced": true,
+      "path": "select/03_CHAMPION_GIRL_電音部.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Champion Girl",
+      "artist": "電音部,Giga, 鳳凰火凛 (CV:健屋花那)",
+      "has_synced": true,
+      "path": "select/04_Champion_Girl_電音部,Giga,_鳳凰火凛_(CV_健屋花那).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHAMPION GIRL",
+      "artist": "電音部,Giga,鳳凰火凛 (CV: 健屋花那)",
+      "has_synced": false,
+      "path": "select/pl_01_CHAMPION_GIRL_電音部,Giga,鳳凰火凛_(CV__健屋花那).txt"
+    }
+  ]
+}
